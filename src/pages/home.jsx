@@ -1,6 +1,6 @@
 import { CategoriesTotal } from "../components/home/CategoriesTotal"
 import { UsersTotal } from "../components/home/UsersTotal"
-import { ProductsTotal } from "../components/home/productsTotal"
+import { ProductsTotal } from "../components/home/ProductsTotal"
 import { VentasTotal } from "../components/home/VentasTotal"
 import { LastProductInDb } from "../components/home/LastProductInDb"
 
