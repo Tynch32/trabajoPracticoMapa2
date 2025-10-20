@@ -1,0 +1,30 @@
+#content-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+.buttons_edit{
+    width: 45%;
+}
+.d-lg-inline{
+    display: inline!important;
+}
+.home_section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+.seccion1{
+    width: 60%;
+    height: 100%;
+}
+.seccion2{
+    width: 39%;
+}
+
+@media (max-width:500px){
+    .side_Bar{
+       display: none;
+    }
+}
